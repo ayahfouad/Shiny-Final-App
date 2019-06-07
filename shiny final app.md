@@ -6,16 +6,11 @@ autosize: true
 
 Project Overview
 ========================================================
-
-This presentation was created as the final step in the Capstone project for the Data Scientist specialization offered through Coursera / Johns Hopkins.  
-
-The project goal was to build a predictive model of English text.  The skills needed to complete this task include natural language processing and text mining.  The model was created using the Shiny Application in RStudio.
-
-The source data for this project can be found at: https://d396qusza40orc.cloudfront.net/dsscapstone/dataset/Coursera-SwiftKey.zip
-
-My Shiny App can be found at: https://ctarsenault.shinyapps.io/word_prediction_application
-
-If you would like to review my source code, it is located on GitHub at:https://github.com/ayahfouad/Shiny-Final-App
+- This presentation was created as the final step in the Capstone project for the Data Scientist specialization offered through Coursera / Johns Hopkins.  
+- The project goal was to build a predictive model of English text.
+- The source data for this project can be found at: https://d396qusza40orc.cloudfront.net/dsscapstone/dataset/Coursera-SwiftKey.zip
+- Shiny App can be found at: https://ctarsenault.shinyapps.io/word_prediction_application
+- For the source code, it is located on GitHub at: https://github.com/ayahfouad/Shiny-Final-App
 
 Working with the Data
 ========================================================
